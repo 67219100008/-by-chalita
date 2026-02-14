@@ -1,0 +1,65 @@
+<html>
+	<head>
+		<title>ร้านยานยนต์</title>
+</head>
+		<style>
+		.pp{background-color:#FFEBCD;}
+		.n{background-color:#F0FFFF;}
+		.m{background-color:#FFE4B5;}
+		.p{background-color:#FFF0F5;}
+		.r{background-color:#E6E6FA;}
+</style>
+
+<body bgcolor="#FFCCCC">
+	<h1>ระบบจองรถยนต์ของเต้นท์รถ</h1>
+	<p><strong><font style="color:SlateBlue">ร้านยานยนต์</font></strong>
+	<br><span>ชื่อ</span>
+	<font style="color:Red">นางสาวชลิตา</font>
+	<span>นามสกุล</span>
+	<font style="color:Red">ศรีสังข์</font>
+	<br><span>เบอร์โทร</span>
+	<span><font style="color:Red">098-9807315</span></font>
+	<span>ที่อยู่</span>
+	<span><font style="color:Red">วิทยาลัยเทคนิคพัทลุง</font></span>
+<br>
+		<tr>
+			<td><img src="C:\chalita\รถ.png" alt"=รถ" width="70" height="70"></td>
+			<td><img src="C:\chalita\จาน.png" alt"=จาน" width="70" height="70"></td>
+			<td><img src="C:\chalita\เครื่อง.png"alt"=เครื่อง" width="70" height="70"></td>
+			<td><img src="C:\chalita\นาย.JPG"alt"=นาย" width="70" height="70"></td>
+		</tr>
+			<br>
+
+			<table border="1" width="70" heigth="70">		
+		<tr>
+			<td class="pp"><font style="color:Red">ครั้งที่</font></td>
+			<td class="n"><font style="color:Red">ชื่อรุ่นรถ</font></td>
+			<td class="m"><font style="color:Red">รูปรถ</font></td>
+			<td class="p"><font style="color:Red">จำนวนวันที่ยืม</font></td>
+			<td class="r"><font style="color:Red">วันเดือนปี (คืน)</font></td>
+			
+		</tr>
+		<tr>
+			<td  class="pp">1</td>
+			<td class="n">GPX </td>
+			<td class="m"><img src="C:\chalita\ตต.JPG"alt"ตต"width="20"height="20"></td>
+			<td class="p"><font style="color:CornflowerBlue">10วัน</td></font>
+			<td class="r"><font style="color:Green">15 ตุลาคม 2568 </td></font>
+			
+		</tr>
+		<tr>
+			<td  class="pp">2</td>
+			<td  class="n">Honda Super Cub</td>
+			<td  class="m"><img src="C:\chalita\ทท.JPG"alt"ทท"width="70"height="70"></td>
+			<td  class="p"><font style="color:CornflowerBlue">5วัน</td></font>
+			<td  class="r"><font style="color:Green">1 พฤศจิกายนต์ 2568 </td></font>
+		</tr>
+		<tr>
+			<td class="pp">3</td>
+			<td  class="n">Honda Forza</td>
+			<td class="m"><img src="C:\chalita\จจ.PNG"alt"จจ"width="70"height="70"></td>
+			<td  class="p"><font style="color:CornflowerBlue">32วัน</td></font>
+			<td  class="r"><font style="color:Green">32 ธันวาคม 2569 </td></font>
+</tr>
+</body>
+</html>
